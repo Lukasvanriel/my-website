@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nPhD, Forest Ecology (in progress)\nUniversité de Montréal, Montréal, Canada\nMSc, Climate Change\nUniversity of Copenhagen, Copenhagen, Denmark\nMSc, Astronomy & Astrophysics\nKU Leuven, Leuven, Belgium"
+  },
+  {
+    "objectID": "cv.html#research",
+    "href": "cv.html#research",
+    "title": "CV",
+    "section": "Research",
+    "text": "Research\n[Brief paragraph or bullet points about your PhD project — optional here if already on About page]"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: lukas.van.riel [at] umontreal [dot] ca\nORCID: 0009-0005-9828-4105"
+  },
+  {
+    "objectID": "outputs.html",
+    "href": "outputs.html",
+    "title": "Outputs",
+    "section": "",
+    "text": "In preparation\n\n\n\n\nIn preparation"
+  },
+  {
+    "objectID": "outputs.html#publications",
+    "href": "outputs.html#publications",
+    "title": "Outputs",
+    "section": "",
+    "text": "In preparation\n\n\n\n\nIn preparation"
+  },
+  {
+    "objectID": "outputs.html#presentations-posters",
+    "href": "outputs.html#presentations-posters",
+    "title": "Outputs",
+    "section": "Presentations & Posters",
+    "text": "Presentations & Posters"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "my-website",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#quarto",
+    "href": "index.html#quarto",
+    "title": "my-website",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  }
+]

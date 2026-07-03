@@ -1,0 +1,22 @@
+---
+title: "CV"
+---
+
+[Download CV (PDF)](cv.pdf) <!-- link your PDF here when ready -->
+
+## Education
+
+**PhD, Forest Ecology** *(in progress)*\
+Université de Montréal, Montréal, Canada
+
+**MSc, Climate Change**\
+University of Copenhagen, Copenhagen, Denmark
+
+**MSc, Astronomy & Astrophysics**\
+KU Leuven, Leuven, Belgium
+
+------------------------------------------------------------------------
+
+## Research
+
+*\[Brief paragraph or bullet points about your PhD project — optional here if already on About page\]*

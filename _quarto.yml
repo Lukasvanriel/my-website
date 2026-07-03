@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Lukas Van Riel"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: outputs.qmd
+        text: Outputs
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: minty
+    toc: false
