@@ -51,15 +51,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "my-website",
+    "title": "About",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#quarto",
-    "href": "index.html#quarto",
-    "title": "my-website",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a PhD candidate in forest ecology at the Université de Montréal, where my research focuses on the climate vulnerability of yellow birch (Betula alleghaniensis) and forest succession dynamics across environmental gradients in Quebec.\nMy work combines dendrochronology, physiological measurements, and advanced statistical modelling — including hierarchical GAMs and survival analysis — to understand how tree populations respond to changing climate conditions.\nI hold Master’s degrees in Astronomy & Astrophysics (KU Leuven) and Climate Change (University of Copenhagen), and I bring a strongly quantitative perspective to ecological questions."
   }
 ]
