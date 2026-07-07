@@ -1,11 +1,17 @@
 ---
-title: "my-website"
+title: "About"
 ---
 
-## Quarto
+I am a PhD candidate in forest ecology at the Université de Montréal, 
+where my research focuses on the climate vulnerability of yellow birch 
+(*Betula alleghaniensis*) and forest succession dynamics across 
+environmental gradients in Quebec.
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+My work combines dendrochronology, physiological measurements, and 
+advanced statistical modelling — including hierarchical GAMs and 
+survival analysis — to understand how tree populations respond to 
+changing climate conditions.
 
-```{r}
-1 + 1
-```
+I hold Master's degrees in Astronomy & Astrophysics (KU Leuven) and 
+Climate Change (University of Copenhagen), and I bring a strongly 
+quantitative perspective to ecological questions.
