@@ -1,9 +1,0 @@
----
-title: "Contact"
----
-
-**Email:** lukas.van.riel \[at\] umontreal \[dot\] ca
-
-**ORCID:** 0009-0005-9828-4105
-
-<!-- Add GitHub etc. once ready -->
