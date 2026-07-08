@@ -1,31 +1,80 @@
 ---
-title: "Lukas Van Riel"
+title-block-banner: false
 ---
 
-## Hi, I'm Lukas!
+::: {.hero-title}
+Hi, I'm Lukas!
+:::
 
-![](images/lukas.jpg){fig-align="left" style="max-width: 250px; border-radius: 8px;"}
+::: {.intro-block}
+::: {.intro-flex}
+::: {.intro-text}
+I study how climate change, disturbances, and their interactions shape the distribution of tree species in Quebec, Canada. To look at these processes across different spatial and timescales, I combine field work, large-scale forest inventory data, and spatially explicit model projections.
 
-I study how climate change, disturbances, and their interactions shape the distribution of tree species in Quebec, Canada — combining field work, large-scale forest inventory data (Quebec's permanent plot network), and spatially explicit model projections to look at these processes across different timescales.
+Currently, I'm a PhD candidate in the [Forest Ecology lab](https://mhbrice.github.io/en/) at the University of Montreal, a [BIOS2](https://bios2.usherbrooke.ca/) fellow, and a member of the [Centre for Forest Research](https://www.cef-cfr.ca/). I expect to defend early 2027 and am starting to look ahead to what comes next.
 
-I'm a PhD candidate in the [Forest Ecology lab](https://mhbrice.github.io/en/) at Université de Montréal, a [BIOS2](https://bios2.usherbrooke.ca/) fellow, and a member of the [Centre for Forest Research](https://www.cef-cfr.ca/).
+My research interests center on climate driven range dynamics and ecological forecasting at large spatial scales. I'm increasingly interested in what future forest compositional changes mean for the broader biodiversity that depends on them, and how this could be brought into future projections across organisational scales.
 
-My interests center on climate change effects on the biosphere, biogeography, and species range dynamics — with a particular pull toward disturbance ecology and ecological forecasting at large spatial scales.
+Feel free to reach out: [lukas.van.riel@umontreal.ca](mailto:lukas.van.riel@umontreal.ca)
+:::
 
-Get in touch: [lukas.van.riel@umontreal.ca](mailto:lukas.van.riel@umontreal.ca)
-
----
+::: {.intro-photo}
+![](images/lukas.jpg)
+:::
+:::
+:::
 
 ## My research
 
+Across three chapters, my thesis asks how Quebec's forests respond to climate change. I look at what other factors, like natural and anthropogenic disturbance regimes, shape that response at scales ranging from individual trees to entire landscapes.
+
+::: {.chapter-row}
+::: {.chapter-text}
+### Forest succession under a changing climate
+
+**Goal.** Understand how forest succession in Quebec has already responded to climate change, and how covariates like soil conditions and disturbance regimes shaped that succession.
+
+**Method.** A Bayesian multistate survival model fitted across ~12,500 permanent forest plots across Quebec, to estimate transition rates and probabilities between forest states over time.
+
+Natural disturbances seem to have a neutral effect on the ongoing thermophilization. Meanwhile, anthropogenic disturbances (harvest) matter a lot more, with harvest intensity determining whether stands shifted toward warmer-adapted species or resisted a compositional shift. Soil also acts as a filter, screening out certain temperate specialist species regardless of disturbance, suggesting that facilitation may be needed before a full switch to temperate forest composition can occur.
+
+:::
+
+::: {.chapter-image}
 ![](images/pep-figure.png)
-**Forest succession under a changing climate.** A multistate survival model across ~12,500 permanent plots shows harvest intensity — not disturbance type — determines whether warming-driven shifts in forest composition stick or reverse.
+:::
+:::
 
+::: {.chapter-row .reverse}
+::: {.chapter-text}
+### Forest resilience under different future scenarios
+
+**Goal.** Assess the future resilience of forest stands under different climate and disturbance scenarios until 2150.
+
+**Method.** Ecological Trajectory Analysis (De Cáceres et al., 2019) applied to landscape simulations run with LANDIS-II, a spatially explicit forest landscape model, in collaboration with Natural Resources Canada.
+
+:::
+
+::: {.chapter-image}
 ![](images/landis-figure.png)
-**Landscape-scale trajectories.** Trajectory analysis of forest simulations, with Natural Resources Canada, to trace how these dynamics play out across the broader landscape.
+:::
+:::
 
+::: {.chapter-row}
+::: {.chapter-text}
+### Yellow birch under climate stress
+
+**Goal.** Understand what currently limits the temperate species yellow birch (*Betula alleghaniensis*) at the northern edge of its range. Is it climate directly, or something else? 
+
+**Method.** Dendrochronological and ecophysiological measurements (photosynthetic capacity, growth) along a latitudinal gradient spanning the species' range boundary for both adult and juvenile trees.
+
+Contrary to the macroclimate hypothesis, site quality turned out to drive photosynthetic capacity and growth more than climate itself. We believe this site quality to be a proxy for the stand disturbance history, which would imply that disturbances contribute to the stability of the boreal zone in Quebec. 
+:::
+
+::: {.chapter-image}
 ![](images/birch-figure.png)
-**Yellow birch under climate stress.** Using dendrochronology and ecophysiology, I look at how *Betula alleghaniensis* responds to climate along a latitudinal gradient in Quebec.
+:::
+:::
 
 ---
 
