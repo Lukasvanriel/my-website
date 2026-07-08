@@ -13,7 +13,7 @@ I study how climate change, disturbances, and their interactions shape the distr
 
 Currently, I'm a PhD candidate in the [Forest Ecology lab](https://mhbrice.github.io/en/) at the University of Montreal, a [BIOS2](https://bios2.usherbrooke.ca/) fellow, and a member of the [Centre for Forest Research](https://www.cef-cfr.ca/). I expect to defend early 2027 and am starting to look ahead to what comes next.
 
-My research interests center on climate driven range dynamics and ecological forecasting at large spatial scales. I'm increasingly interested in what future forest compositional changes mean for the broader biodiversity that depends on them, and how this could be brought into future projections across organisational scales.
+My research interests center on climate driven range dynamics and ecological forecasting at large spatial scales. I'm increasingly interested in what future forest changes mean for the species that depend on them, and how we might bring that into future projections at different scales.
 
 Feel free to reach out: [lukas.van.riel@umontreal.ca](mailto:lukas.van.riel@umontreal.ca)
 :::
