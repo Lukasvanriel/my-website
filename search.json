@@ -1,58 +1,37 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Download CV (PDF)"
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
-    "section": "Education",
-    "text": "Education\nPhD, Forest Ecology (in progress)\nUniversité de Montréal, Montréal, Canada\nMSc, Climate Change\nUniversity of Copenhagen, Copenhagen, Denmark\nMSc, Astronomy & Astrophysics\nKU Leuven, Leuven, Belgium"
-  },
-  {
-    "objectID": "cv.html#research",
-    "href": "cv.html#research",
-    "title": "CV",
-    "section": "Research",
-    "text": "Research\n[Brief paragraph or bullet points about your PhD project — optional here if already on About page]"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: lukas.van.riel [at] umontreal [dot] ca\nORCID: 0009-0005-9828-4105"
-  },
-  {
-    "objectID": "outputs.html",
-    "href": "outputs.html",
-    "title": "Outputs",
-    "section": "",
-    "text": "In preparation\n\n\n\n\nIn preparation"
-  },
-  {
-    "objectID": "outputs.html#publications",
-    "href": "outputs.html#publications",
-    "title": "Outputs",
-    "section": "",
-    "text": "In preparation\n\n\n\n\nIn preparation"
-  },
-  {
-    "objectID": "outputs.html#presentations-posters",
-    "href": "outputs.html#presentations-posters",
-    "title": "Outputs",
-    "section": "Presentations & Posters",
-    "text": "Presentations & Posters"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About",
+    "title": "Lukas Van Riel",
     "section": "",
-    "text": "I am a PhD candidate in forest ecology at the Université de Montréal, where my research focuses on the climate vulnerability of yellow birch (Betula alleghaniensis) and forest succession dynamics across environmental gradients in Quebec.\nMy work combines dendrochronology, physiological measurements, and advanced statistical modelling — including hierarchical GAMs and survival analysis — to understand how tree populations respond to changing climate conditions.\nI hold Master’s degrees in Astronomy & Astrophysics (KU Leuven) and Climate Change (University of Copenhagen), and I bring a strongly quantitative perspective to ecological questions."
+    "text": "I study how climate change, disturbances, and their interactions shape the distribution of tree species in Quebec, Canada — combining field work, large-scale forest inventory data (Quebec’s permanent plot network), and spatially explicit model projections to look at these processes across different timescales.\nI’m a PhD candidate in the Forest Ecology lab at Université de Montréal, a BIOS2 fellow, and a member of the Centre for Forest Research.\nMy interests center on climate change effects on the biosphere, biogeography, and species range dynamics — with a particular pull toward disturbance ecology and ecological forecasting at large spatial scales.\nGet in touch: lukas.van.riel@umontreal.ca"
+  },
+  {
+    "objectID": "index.html#hi-im-lukas",
+    "href": "index.html#hi-im-lukas",
+    "title": "Lukas Van Riel",
+    "section": "",
+    "text": "I study how climate change, disturbances, and their interactions shape the distribution of tree species in Quebec, Canada — combining field work, large-scale forest inventory data (Quebec’s permanent plot network), and spatially explicit model projections to look at these processes across different timescales.\nI’m a PhD candidate in the Forest Ecology lab at Université de Montréal, a BIOS2 fellow, and a member of the Centre for Forest Research.\nMy interests center on climate change effects on the biosphere, biogeography, and species range dynamics — with a particular pull toward disturbance ecology and ecological forecasting at large spatial scales.\nGet in touch: lukas.van.riel@umontreal.ca"
+  },
+  {
+    "objectID": "index.html#my-research",
+    "href": "index.html#my-research",
+    "title": "Lukas Van Riel",
+    "section": "My research",
+    "text": "My research\n Forest succession under a changing climate. A multistate survival model across ~12,500 permanent plots shows harvest intensity — not disturbance type — determines whether warming-driven shifts in forest composition stick or reverse.\n Landscape-scale trajectories. Trajectory analysis of forest simulations, with Natural Resources Canada, to trace how these dynamics play out across the broader landscape.\n Yellow birch under climate stress. Using dendrochronology and ecophysiology, I look at how Betula alleghaniensis responds to climate along a latitudinal gradient in Quebec."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Lukas Van Riel",
+    "section": "Publications",
+    "text": "Publications\nVan Riel, L., Brice, M.-H., Bouchard, M., Girard, F. (under review). Local factors, not macroclimate, drive tree carbon supply and allocation at a temperate range boundary. Forest Ecology and Management.\nHébert, K., Earley, N., Reynolds, J., Srivastava, D., Starzomski, B., Tseng, M., Larocque, G., Pagé, J., Raudsepp-Hearne, C., Soroye, P., Emry, S., Hunt, D., Rogy, P., Brabant, C., Deedes-Vincke, S., Díaz-Corzo, M.C., Eckert, L., Eckhardt, K., Elwell, S., Kester, N., Lee, J., Morrison, S., Olu-Ayorinde, E., Trottier, L., Van Riel, L., Yunusov, S., Eckert, I., Serrano, J., Wightman, N., Horikawa, M., Hull, R., Nagpal, L., Drapeau Picard, A.-P., Lacroix-Carignan, É., Duplessis, D., Léveillé-Bourret, É., Poulin, M.-A., Zerafa, A., Pollock, L. (under review). Blitz the Gap: a nation-wide effort to guide citizen science toward the needs of biodiversity science. FACETS.\nLévesque, C., Hébert, K., Lebeuf-Taylor, I., Sepúlveda-Correa, A., Van Riel, L., Feyten, L., Stahl, A., Ménard, K., Pereira Braga, P.H., Pham, J., Charette, C., Zhang, W., Edwards, B., King, L. (under review). Leveling up multispecies models: using Hierarchical Generalized Additive Models to estimate variation in spatial and temporal trends across species. Methods in Ecology and Evolution."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Lukas Van Riel",
+    "section": "Contact",
+    "text": "Contact\nEmail: lukas.van.riel@umontreal.ca"
   }
 ]
